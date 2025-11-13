@@ -2,7 +2,7 @@
 
 A production-ready **Byte Pair Encoding (BPE) tokenizer** for the Kannada language, trained on complete Kannada Wikipedia with systematic vocabulary optimization.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shwethd/TSAI-S11/blob/main/Kannada_BPE_Tokenizer_Training.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shwethaamrutha/TSAI-S11/blob/main/Kannada_BPE_Tokenizer_Training.ipynb)
 
 ---
 
