@@ -10,8 +10,17 @@ A production-ready **Byte Pair Encoding (BPE) tokenizer** for the Kannada langua
 
 | Requirement | Target | Achieved |
 |------------|--------|----------|
-| **Token Count** | **> 5,000 tokens** | **50,000 tokens** | 
-| **Compression Ratio** | **≥ 3.2** | **4.48** | 
+| **Token Count** | **> 5,000 tokens** | **50,000 tokens** ✅| 
+| **Compression Ratio** | **≥ 3.2** | **4.48** ✅| 
+
+
+---
+
+## 🌐 Live Demo
+
+**Try the tokenizer online:** [https://huggingface.co/spaces/shwethd/kannada-tokenizer-50k](https://huggingface.co/spaces/shwethd/kannada-tokenizer-50k)
+
+Interactive web demo powered by Gradio - tokenize Kannada text in real-time, see compression statistics, and explore morphological patterns.
 
 ---
 
